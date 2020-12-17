@@ -25,7 +25,7 @@ body {
 }
 
 .board div:hover {
-  background-color: #ccc;
+  background-color:#ccc;
 }
 
 .totals {
@@ -48,7 +48,7 @@ body {
 }
 
 div.blue {
-  background-color: deepskyblue;
+  background-color:deepskyblue;
 }
 
 div.blue:hover {
